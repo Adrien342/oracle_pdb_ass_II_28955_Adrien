@@ -85,7 +85,11 @@ DROP PLUGGABLE DATABASE [AD_pdb_28966] INCLUDING DATAFILES;
 ## Challenges and Solutions
 
 **Issue:** "Insufficient privileges" error when opening PDB 
-**Solution:** Reconnected as SYSDBA using `sqlplus / as sysdba`  
+<img width="962" height="661" alt="wall1" src="https://github.com/user-attachments/assets/02cd0965-c3d3-49c3-90f1-3d16ced0e527" />
+
+**Solution:** Reconnected as SYSDBA using `sqlplus / as sysdba`
+<img width="997" height="427" alt="Wall" src="https://github.com/user-attachments/assets/589da532-936d-43de-80d2-438a0b26018e" />
+
 **Learning:** Always verify SYSDBA connection for administrative tasks
 
 
